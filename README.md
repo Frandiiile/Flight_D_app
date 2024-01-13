@@ -24,3 +24,14 @@ npm -v
 npm i ganache-cli -g
 npm i truffle -g
 npm install
+```
+Running the files:
+```bash
+./1_start_ganache.sh
+./2_compile_contracts.sh
+```
+Running Dapp: 
+```bash
+npm run dapp
+npm run server
+```
