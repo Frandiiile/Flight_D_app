@@ -9,7 +9,7 @@ Flight Surety is a decentralized application (DApp) built on the Ethereum blockc
 
 Before you begin, ensure you have the following prerequisites installed:
 
-- [Node.js](https://nodejs.org/) 10.5.3
+- [Node.js](https://nodejs.org/) 10.15.3
 - [Truffle](https://www.trufflesuite.com/truffle)
 - [Ganache](https://www.trufflesuite.com/ganache)
 
