@@ -18,7 +18,7 @@ Before you begin, ensure you have the following prerequisites installed:
 1. Clone the repository and commands to run
 
 ```bash
-git clone https://github.com/your-username/Flight_D_app.git
+git clone https://github.com/Frandiiile/Flight_D_app.git
 node -v
 npm -v
 npm i ganache-cli -g
